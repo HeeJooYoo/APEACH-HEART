@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameScene/Start_Boss.unity
+  isLoaded: 1
+  isActive: 1
